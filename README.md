@@ -83,7 +83,7 @@ All files should use ; as separator.
 
 Clone the repository:
 
-git clone https://github.com/your-username/adaptive-qos-routing-engine.git
+git clone https://github.com/MaysamWazin/adaptive-qos-routing-engine.git
 cd adaptive-qos-routing-engine
 
 Install dependencies:
