@@ -69,9 +69,17 @@ Set bandwidth demand manually or via scenario
 Run the algorithm and visualize the path
 
 The resulting path is highlighted on the network graph.
+Input Files
 
+# The system expects three CSV files:
 
-Running the Project
+NodeData.csv → node properties
+EdgeData.csv → link properties
+DemandData.csv → traffic scenarios
+
+All files should use ; as separator.
+
+# Running the Project
 
 Clone the repository:
 
